@@ -1,0 +1,134 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Nunito', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #9c9898;
+}
+
+
+.center{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.content{
+    margin-top: 6em;
+    width: 45em;
+    height: 50em;
+    border-radius: .5em;
+    background-color: rgb(234, 238, 243);
+    box-shadow: 14px 13px 40px 9px rgba(0,0,0,0.61);
+    -webkit-box-shadow: 14px 13px 40px 9px rgba(0,0,0,0.61);
+    -moz-box-shadow: 14px 13px 40px 9px rgba(0,0,0,0.61);
+}
+
+.content-title{
+    margin-top: 2em;
+    margin-bottom: 6em;
+}
+
+.content-title h1{
+    font-size: 2em;
+    font-weight: 500;
+    
+}
+
+.logo{
+    margin-bottom: 1.5em;
+}
+
+.content-subtitle{
+    margin-bottom: 4em;
+}
+
+.content-subtitle h2{
+    font-size: 3em;
+    font-weight: 500;
+    
+}
+
+.content-subtitle p{
+    font-size: 1.3em;
+    font-weight: 300;
+    color: transparent;
+    background: #666666;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    text-shadow: 0px 3px 3px rgba(255,255,255,0.5);
+}
+
+.content-form{
+    width: 50%;
+    margin-bottom: 2em;
+}
+
+.content-form label{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 1.5em;
+    font-size: 1em;
+    font-weight: 400;
+    text-shadow: -1px 2px 5.5px rgba(0,0,0,0.6);
+}
+
+.content-form input{
+    margin-top: 1em;
+    padding-left: .5em;
+    height: 3em;
+    width: 30em;
+    font-size: .8em;
+    font-weight: 300;
+    border-radius: .5em;
+    border-color: rgb(64, 122, 209);
+}
+
+.content-form button{
+    max-width: 80%;
+    font-size: 1.4em;
+    font-weight: 400;
+    padding: .5em 3em;
+    color: white;
+    background-color: rgb(64, 122, 209);
+    border: none;
+    border-radius: 20px;
+    box-shadow: 5px 10px 8px rgba(85, 84, 84, 0.651);
+}
+
+.content-form button:hover{
+    font-size: 1.3rem;
+    transition: 0.5s;
+    box-shadow: 5px 10px 8px rgba(31, 182, 220, 0.651);
+}
+
+
+.content-actions{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+    margin-bottom: 1.5em;
+}
+
+.content-actions a{
+    font-size: 1.2em;
+    font-weight: 300;
+    text-decoration: none;
+    color: transparent;
+    background: #131212;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    text-shadow: 0px 3px 3px rgba(255,255,255,0.5);
+}
+
+.content-actions a:hover{
+    color: rgb(117, 119, 228);
+}
