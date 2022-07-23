@@ -1,0 +1,33 @@
+GENERAL 
+version pc completo,
+version mobile falta el grafico q lo podes hacer sencillo con js, charts.js es una libreria donde lo haces super facil. (sabiendo js cosa q yo no x eso te lo dejo a vos en 10 minutos lo haces)
+y el THEMETOGGLER osea q cambia de nocturno a diurno no se pq no funcuiona en el general.
+
+https://www.youtube.com/results?search_query=charts.js
+
+RENDIMIENTO
+version pc completo funciona el themetoggler todo,
+
+version mobile completa
+
+NOTIFICACIONES
+Completo tanto mobile como pc 
+
+CAJA
+vewrsion pc completo
+version mobile falta hacer las pantallas de seleccion de metodo de deposito y acomodar la de retiro en el medio, ya esta echa la plantilla para completar
+
+USUARIO
+version mobile completa faltan detalles esteticos
+version pc completa
+
+DOCUMENTOS
+version mobile y pc completo 
+
+PANTALLA DE INICIO LOGIN REGISTRER
+le hice cambios visuales para q quede mas sutil.
+
+
+FALTANTE: Pagina de soporte/herramientas.
+
+
